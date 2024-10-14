@@ -11,6 +11,9 @@ _site
 # RubyGems
 *.gem
 
+!assets/images/
+
+
 # NPM dependencies
 node_modules
 package-lock.json
