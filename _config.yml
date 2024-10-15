@@ -28,8 +28,8 @@ url: "https://elbouzrazi.github.io"
 github:
   username: elbouzrazi # change to your github username
 
-linkedin:
-  username: elbouzarazi # change to your twitter username
+twitter:
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,11 +38,11 @@ social:
   email: zakariae.elbouzarazi@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/zakariae-elbouzarazi-34126b293/ # change to your twitter homepage
+    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/elbouzarazi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.twitter.com/twitter-name
+    - https://www.linkedin.com/in/zakariae-elbouzarazi-34126b293/
 
 # Site Verification Settings
 webmaster_verifications:
