@@ -6,7 +6,7 @@ order: 4
 
 ## About Me
 
-Hi, I'm Zakariae El Bouzarazi, a Full stack Developper and a cybersecurity engineering student with a passion for ethical hacking, penetration testing, and malware analysis. I enjoy solving CTF (Capture the Flag) challenges and sharing my knowledge through blog posts and write-ups.
+Hi, I'm Zakariae El Bouzarazi, cybersecurity engineering student with a passion for ethical hacking, penetration testing, and malware analysis. I enjoy solving CTF (Capture the Flag) challenges and sharing my knowledge through blog posts and write-ups.
 
 I have been studying in the field of cybersecurity for several years, focusing on Active Directory (AD) security, pentesting methodologies, and malware analysis. I've worked on various projects involving the development of pentesting methodologies for AD environments and reverse engineering malware using tools like IDA PRO and x64dbg .
 
